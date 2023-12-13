@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on any software engineering project
 - 📫 Reach me on yila.ben@yahoo.com
-- Fun facts about me, I'm also a musician
+- ⚡ Fun fact about me, I'm also a musician
 
 <!---
 wyeben/wyeben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
