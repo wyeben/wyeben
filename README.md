@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wyeben
+- 👋 Hi, I’m Benson a.k.a Wyeben
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on any software engineering project
