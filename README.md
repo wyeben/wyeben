@@ -15,7 +15,7 @@
 - **Live Demo:** [Demo Link](https://23vibez.vercel.app/)
 
 ### Project 2: Attendance Management application
-![Project Image](./attendance-management-/attendanceLandingPage/assets/Screenshot_2023-12-05_154051.png)
+![Project Image](https://github.com/wyeben/attendance-management-/blob/main/attendanceLandingPage/assets/Screenshot%202023-12-05%20154051.png)
 - **Description:** The attendance management application is a user-friendly and efficient solution
 -   for tracking attendance across various settings. It simplifies the task
 -   of recording, managing, and analyzing attendance data.
