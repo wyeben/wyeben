@@ -5,7 +5,7 @@
 ## Projects
 
 ### Project 1: 23VIBEZ
-![Project Image](images/project1.png)
+![Project Image](https://raw.githubusercontent.com/wyeben/23vibez/main/public/favicon.ico)
 
 - **Description:** 23VIBEZ is your go-to music application, designed to elevate your listening experience.
 -   With a sleek interface and an extensive library of tracks spanning genres,
