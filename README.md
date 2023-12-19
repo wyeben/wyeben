@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Benson a.k.a Wyeben
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on any software engineering project
-- 📫 Reach me on yila.ben@yahoo.com
-- ⚡ Fun fact about me, I'm also a musician
 
 #Welcome to my Software Engineering Portfolio!
 🚀 Here's an overview of my projects and skills.
@@ -21,13 +15,13 @@
 - **Live Demo:** [Demo Link](https://23vibez.vercel.app/)
 
 ### Project 2: Attendance Management application
-![Project Image](images/project2.png)
+![Project Image](attendance-management-/attendanceLandingPage/assets/Screenshot 2023-12-05 154051.png)
 
 - **Description:** The attendance management application is a user-friendly and efficient solution
 -   for tracking attendance across various settings. It simplifies the task
 -   of recording, managing, and analyzing attendance data.
 - **Tech Stack:** Java, Springboot, JavaScript, HTML, CSS, SQL.
-- **GitHub Link:** [Project Repo](https://github.com/wyeben/Attendance-management)
+- **GitHub Link:** [Project Repo](https://github.com/wyeben/attendance-management)
 - **Live Demo:** [Demo Link](https://wyeben.github.io/attendance-management-/attendanceLandingPage/index.html)
 
 <!-- Add more projects as needed -->
