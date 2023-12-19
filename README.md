@@ -11,8 +11,8 @@
 -   With a sleek interface and an extensive library of tracks spanning genres,
 -   it's your ultimate musical companion.
 - **Tech Stack:** JavaScript, React, HTML, CSS, Spotify API.
-- **GitHub Link:** [Project Repo](https://github.com/wyeben/23vibez)
-- **Live Demo:** [Demo Link](https://23vibez.vercel.app/)
+- **GitHub Link:** [Clich here](https://github.com/wyeben/23vibez)
+- **Live Demo:** [Click here](https://23vibez.vercel.app/)
 
 ### Project 2: Attendance Management application
 ![Project Image](https://github.com/wyeben/attendance-management-/blob/main/attendanceLandingPage/assets/Screenshot%202023-12-05%20154051.png)
@@ -20,8 +20,8 @@
 -   for tracking attendance across various settings. It simplifies the task
 -   of recording, managing, and analyzing attendance data.
 - **Tech Stack:** Java, Springboot, JavaScript, HTML, CSS, SQL.
-- **GitHub Link:** [Project Repo](https://github.com/wyeben/attendance-management-)
-- **Live Demo:** [Demo Link](https://wyeben.github.io/attendance-management-/attendanceLandingPage/index.html)
+- **GitHub Link:** [Click here ](https://github.com/wyeben/attendance-management-)
+- **Live Demo:** [Click here ](https://wyeben.github.io/attendance-management-/attendanceLandingPage/index.html)
 
 <!-- Add more projects as needed -->
 
@@ -60,7 +60,7 @@ and make a tangible difference in the world.
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yila-benson-872392132/)
+- LinkedIn: [Yila Benson ](https://www.linkedin.com/in/yila-benson-872392132/)
 - Email: yila.ben@yahoo.com
 
 Feel free to reach out to discuss collaborations, projects, or just to connect!
