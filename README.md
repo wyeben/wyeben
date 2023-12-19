@@ -15,13 +15,12 @@
 - **Live Demo:** [Demo Link](https://23vibez.vercel.app/)
 
 ### Project 2: Attendance Management application
-![Project Image](attendance-management-/attendanceLandingPage/assets/Screenshot 2023-12-05 154051.png)
-
+![Project Image](./attendance-management-/attendanceLandingPage/assets/Screenshot_2023-12-05_154051.png)
 - **Description:** The attendance management application is a user-friendly and efficient solution
 -   for tracking attendance across various settings. It simplifies the task
 -   of recording, managing, and analyzing attendance data.
 - **Tech Stack:** Java, Springboot, JavaScript, HTML, CSS, SQL.
-- **GitHub Link:** [Project Repo](https://github.com/wyeben/attendance-management)
+- **GitHub Link:** [Project Repo](https://github.com/wyeben/attendance-management-)
 - **Live Demo:** [Demo Link](https://wyeben.github.io/attendance-management-/attendanceLandingPage/index.html)
 
 <!-- Add more projects as needed -->
