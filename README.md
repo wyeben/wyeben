@@ -28,24 +28,21 @@
 
 # Skills
 
-## Programming Languages
-![Java](https://raw.githubusercontent.com/username/repository/master/logos/java_logo.png)
-![JavaScript](https://raw.githubusercontent.com/username/repository/master/logos/javascript_logo.png)
+<img src="https://github.com/wyeben/logo/blob/main/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/spring-boot.png" alt="Springboot" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/Python-logo-notext.svg.png" alt="Python" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/django-logo-positive.png" alt="Django" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/JavaScript-logo.png" alt="JavaScript" width="100">
 <img src="https://github.com/wyeben/logo/blob/main/590px-Node.js_logo.svg.png" alt="Node.js" width="100">
-![Python](https://raw.githubusercontent.com/username/repository/master/logos/python_logo.png)
+<img src="https://github.com/wyeben/logo/blob/main/react-1-logo-png-transparent.png" alt="React" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/html-logo.webp" alt="Html" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/919826.png" alt="Css" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/Sql_data_base_with_logo.png" alt="SQL" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/MongoDB_Logo.svg.png" alt="Mongodb" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/logomark-black@2x.png" alt="Git" width="100">
+<img src="https://github.com/wyeben/logo/blob/main/GitHub-Mark-ea2971cee799.png" alt="Github" width="100">
 
-## Web Development
-![HTML](https://raw.githubusercontent.com/username/repository/master/logos/html_logo.png)
-![CSS](https://raw.githubusercontent.com/username/repository/master/logos/css_logo.png)
-![React](https://raw.githubusercontent.com/username/repository/master/logos/react_logo.png)
 
-## Databases
-![SQL](https://raw.githubusercontent.com/username/repository/master/logos/sql_logo.png)
-![MongoDB](https://raw.githubusercontent.com/username/repository/master/logos/mongodb_logo.png)
-
-## Version Control
-![Git](https://raw.githubusercontent.com/username/repository/master/logos/git_logo.png)
-![GitHub](https://raw.githubusercontent.com/username/repository/master/logos/github_logo.png)
 
 
 ## About Me
