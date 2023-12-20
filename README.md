@@ -31,7 +31,7 @@
 ## Programming Languages
 ![Java](https://raw.githubusercontent.com/username/repository/master/logos/java_logo.png)
 ![JavaScript](https://raw.githubusercontent.com/username/repository/master/logos/javascript_logo.png)
-![Node.js](https://github.com/wyeben/logo/blob/main/590px-Node.js_logo.svg.png)
+<img src="https://github.com/wyeben/logo/blob/main/590px-Node.js_logo.svg.png" alt="Node.js" width="100">
 ![Python](https://raw.githubusercontent.com/username/repository/master/logos/python_logo.png)
 
 ## Web Development
