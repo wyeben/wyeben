@@ -1,5 +1,6 @@
 
-#Welcome to my Software Engineering Portfolio!
+# Welcome to my Software Engineering Portfolio!
+
 🚀 Here's an overview of my projects and skills.
 
 ## Projects
@@ -25,12 +26,26 @@
 
 <!-- Add more projects as needed -->
 
-## Skills
+# Skills
 
-- Programming Languages: Java, JavaScript, Python
-- Web Development: HTML, CSS, React
-- Databases: SQL, MongoDB
-- Version Control: Git, GitHub
+## Programming Languages
+![Java](https://raw.githubusercontent.com/username/repository/master/logos/java_logo.png)
+![JavaScript](https://raw.githubusercontent.com/username/repository/master/logos/javascript_logo.png)
+![Python](https://raw.githubusercontent.com/username/repository/master/logos/python_logo.png)
+
+## Web Development
+![HTML](https://raw.githubusercontent.com/username/repository/master/logos/html_logo.png)
+![CSS](https://raw.githubusercontent.com/username/repository/master/logos/css_logo.png)
+![React](https://raw.githubusercontent.com/username/repository/master/logos/react_logo.png)
+
+## Databases
+![SQL](https://raw.githubusercontent.com/username/repository/master/logos/sql_logo.png)
+![MongoDB](https://raw.githubusercontent.com/username/repository/master/logos/mongodb_logo.png)
+
+## Version Control
+![Git](https://raw.githubusercontent.com/username/repository/master/logos/git_logo.png)
+![GitHub](https://raw.githubusercontent.com/username/repository/master/logos/github_logo.png)
+
 
 ## About Me
 
