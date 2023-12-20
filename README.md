@@ -25,7 +25,7 @@
 - **Live Demo:** [Click here ](https://wyeben.github.io/attendance-management-/attendanceLandingPage/index.html)
 
 <!-- Add more projects as needed -->
-
+<!--
 # Skills
 
 <img src="https://github.com/wyeben/logo/blob/main/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100">
@@ -41,6 +41,14 @@
 <img src="https://github.com/wyeben/logo/blob/main/MongoDB_Logo.svg.png" alt="Mongodb" width="100">
 <img src="https://github.com/wyeben/logo/blob/main/logomark-black@2x.png" alt="Git" width="100">
 <img src="https://github.com/wyeben/logo/blob/main/GitHub-Mark-ea2971cee799.png" alt="Github" width="100">
+-->
+# Skills
+
+|       |       |       |       |       |
+|-------|-------|-------|-------|-------|
+| ![Java](https://github.com/wyeben/logo/blob/main/java-logo-CE0198242E-seeklogo.com.png) | ![Springboot](https://github.com/wyeben/logo/blob/main/spring-boot.png) | ![Python](https://github.com/wyeben/logo/blob/main/Python-logo-notext.svg.png) | ![Django](https://github.com/wyeben/logo/blob/main/django-logo-positive.png) | ![JavaScript](https://github.com/wyeben/logo/blob/main/JavaScript-logo.png) |
+| ![Node.js](https://github.com/wyeben/logo/blob/main/590px-Node.js_logo.svg.png) | ![React](https://github.com/wyeben/logo/blob/main/react-1-logo-png-transparent.png) | ![Html](https://github.com/wyeben/logo/blob/main/html-logo.webp) | ![Css](https://github.com/wyeben/logo/blob/main/919826.png) | ![SQL](https://github.com/wyeben/logo/blob/main/Sql_data_base_with_logo.png) |
+| ![Mongodb](https://github.com/wyeben/logo/blob/main/MongoDB_Logo.svg.png) | ![Git](https://github.com/wyeben/logo/blob/main/logomark-black@2x.png) | ![Github](https://github.com/wyeben/logo/blob/main/GitHub-Mark-ea2971cee799.png) |       |       |
 
 
 
