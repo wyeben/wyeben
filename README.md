@@ -42,7 +42,7 @@
 <img src="https://github.com/wyeben/logo/blob/main/logomark-black@2x.png" alt="Git" width="100">
 <img src="https://github.com/wyeben/logo/blob/main/GitHub-Mark-ea2971cee799.png" alt="Github" width="100">
 -->
-# Skills
+# Languages and Tools
 
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
